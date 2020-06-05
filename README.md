@@ -4,3 +4,10 @@
 ```
 sudo apt update
 ```
+## lotProject$ git
+```
+lgy@PC17:~/lotProject$ git add *
+lgy@PC17:~/lotProject$ git config --global user.email "lgo12301@naver.com"
+lgy@PC17:~/lotProject$ git config --global user.name "dlwldud12301"
+lgy@PC17:~/lotProject$ git commit -m upload
+```
